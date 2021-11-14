@@ -18,6 +18,14 @@ const projects = [
     Githublink: "https://github.com/Shivanshwho/Stock-Portfolio-Optimization-using-MPT-and-LSTM",
   },
   {
+    title: "Shortest Route Visualizer for Electric Vehicles",
+    cardImage: "https://www.trinetrawireless.com/wp-content/uploads/2017/12/Efficient-Fleet-Route-Optimization-With-Trinetra-Wireless.jpg",
+    description: "Streamlit web-application using Python libraries to generate the shortest route between two locations.",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "",
+    Githublink: "https://github.com/supershivam13/Shortest_Route_Visualizer_for_Electric_Vehicles",
+  },
+  {
     title: "PaintAir",
     cardImage: "assets/images/project-page/paintair.jpg",
     description: "Application to let the user draw in a Paint window by waving a specific colored marker/pointer in front of the device’s camera.",
