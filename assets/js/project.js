@@ -23,7 +23,7 @@ const projects = [
     description: "Streamlit web-application using Python libraries to generate the shortest route between two locations.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "",
-    Githublink: "https://github.com/supershivam13/Shortest_Route_Visualizer_for_Electric_Vehicles",
+    Githublink: "https://github.com/Shivanshwho/Shortest-Route-Visualizer-for-Electric-Vehicles",
   },
   {
     title: "PaintAir",
